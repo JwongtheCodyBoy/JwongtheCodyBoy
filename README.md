@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m @JwongtheCodyBoy</h1>
+<h1 align="center">👋 Hi, I’m Jonathan Wong</h1>
 <h3 align="center">Another college student looking to be hired</h3>
 
 <h3 align="left">About me:</h3>
