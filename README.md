@@ -16,15 +16,7 @@
 </div>
 
 <h3 align="left">What's on my mind:</h3>
-I want to make a self driving RC car, How I plan on working towards it:
-<p align="left">
-  
-1. Make a Unity racing game
-2. Design a self learning program on python to output analog data to drive the car in Unity
-3. Get an RC car and strap Ardiunos and electronics on and upload python program
-4. Debug and repeat step 3-4 as many times as needed to optmize <!--The Real #4 Pray to god that debugging doesn't take to long-->
-   
-</p>
+I am making a Ragdoll game, why? Because I saw a youtube video.
 
 <h3 align="left">📫 Connect with me!</h3>
 
