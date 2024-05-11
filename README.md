@@ -17,10 +17,11 @@
 </div>
 
 <h3 align="left">What's on my mind:</h3>
-I am making a Ragdoll game, why? Because I saw a youtube video.
+Working on hiring processes, gotta make money over summer 
 
 <h3 align="left">📫 Connect with me!</h3>
 
 - LinkedIn: [Jonathan Wong](https://www.linkedin.com/in/jonathan-wong-137a39249/)
 - Email: jwong.c004@gmail.com
 - My Website: https://jwongthecodyboy.github.io/Portfolio-website/
+
