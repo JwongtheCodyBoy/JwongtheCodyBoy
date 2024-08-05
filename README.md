@@ -9,6 +9,7 @@
 
 <h3 align="left">💻 Languages and Tools:</h3>
 <div>
+<!--   https://devicon.dev/ -->
   
 [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width = "50">](https://github.com/JwongtheCodyBoy#gh-dark-mode-only)
 [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" width = "50">](https://github.com/JwongtheCodyBoy#gh-light-mode-only)
@@ -17,9 +18,14 @@
 <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
+<br />
 <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 
 <!-- <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,cs,cpp,"/>    <!--   One line to write them all -->
 </div>
