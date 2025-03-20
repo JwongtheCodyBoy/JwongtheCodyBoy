@@ -3,7 +3,7 @@
 
 <h3 align="left">About me:</h3>
 
-- A third year at the University of South Florida, Majoring in Computer Engineering (undeclared specialty)
+- A third year at the University of South Florida, Majoring in Computer Engineering 
 - Currently working for USF Advanced Visualization Center
 - Current Primary experince: Unity, Blender, C#, C++, Python
 
